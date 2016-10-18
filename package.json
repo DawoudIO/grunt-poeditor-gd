@@ -1,24 +1,24 @@
 {
-  "name": "grunt-poeditor-pz",
+  "name": "grunt-poeditor-ab",
   "description": "Call POEditor's APIs, upload & download from a grunt task",
-  "version": "0.1.8",
-  "homepage": "https://github.com/Philoozushi/grunt-poeditor-pz",
+  "version": "0.1.9",
+  "homepage": "https://github.com/bond211/grunt-poeditor-ab",
   "author": {
-    "name": "Philippe Vignau",
-    "email": "philippe@wazaii.net",
-    "url": "http://wazaii.net"
+    "name": "Alexander Bondar",
+    "email": "kontakt@bondar.de",
+    "url": "http://www.bondar.de"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/Philoozushi/grunt-poeditor-pz.git"
+    "url": "git://github.com/bond211/grunt-poeditor-ab.git"
   },
   "bugs": {
-    "url": "https://github.com/Philoozushi/grunt-poeditor-pz/issues"
+    "url": "https://github.com/bond211/grunt-poeditor-ab/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/Philoozushi/grunt-poeditor-pz/blob/master/LICENSE-MIT"
+      "url": "https://github.com/bond211/grunt-poeditor-ab/blob/master/LICENSE-MIT"
     }
   ],
   "engines": {
