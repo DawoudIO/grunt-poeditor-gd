@@ -1,4 +1,4 @@
-# grunt-poeditor-ab
+# grunt-poeditor-gd
 
 > Call POEditor's APIs, upload & download from a grunt task.
 
@@ -6,18 +6,15 @@
 
 First, check out [POEditor](https://poeditor.com) if you don't know what it is.
 
-This plugin requires Grunt `~0.4.0`.
-
-If you haven't used [Grunt](http://gruntjs.com/) before, be sure to check out the [Getting Started](http://gruntjs.com/getting-started) guide, as it explains how to create a [Gruntfile](http://gruntjs.com/sample-gruntfile) as well as install and use Grunt plugins. Once you're familiar with that process, you may install this plugin with this command:
 
 ```shell
-npm install grunt-poeditor-ab --save-dev
+npm install grunt-poeditor-gd --save-dev
 ```
 
 Once the plugin has been installed, it may be enabled inside your Gruntfile with this line of JavaScript:
 
 ```js
-grunt.loadNpmTasks('grunt-poeditor-ab');
+grunt.loadNpmTasks('grunt-poeditor-gd');
 ```
 
 or using the very convenient [load-grunt-tasks](https://github.com/sindresorhus/load-grunt-tasks) utility.
