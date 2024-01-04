@@ -1,7 +1,7 @@
 {
   "name": "grunt-poeditor-gd",
   "description": "Call POEditor's APIs, upload & download from a grunt task",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "homepage": "https://github.com/bond211/grunt-poeditor-ab",
   "author": {
     "name": "George Dawoud",
@@ -32,13 +32,13 @@
     "wget": "0.0.1"
   },
   "devDependencies": {
-    "grunt": "~1.5.3",
+    "grunt": "^1.5.3",
     "grunt-contrib-clean": "^2.0.1",
     "grunt-contrib-jshint": "^3.2.0",
     "grunt-contrib-nodeunit": "^4.0.0"
   },
   "peerDependencies": {
-    "grunt": "~1.5.3"
+    "grunt": "^1.5.3"
   },
   "keywords": [
     "gruntplugin",
